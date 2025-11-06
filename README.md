@@ -22,7 +22,3 @@ It provides structured information about traditional and modern architectural st
 ## Technologies Used
 - HTML5
 - CSS3
-
-## How to View
-To view the website, simply click the link below:
-https://manars0.github.io/Saudi-Architecture-Website/
